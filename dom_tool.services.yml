@@ -1,0 +1,5 @@
+services:
+  dom_tool.twig.TwigExtension:
+    class: Drupal\dom_tool\TwigExtension
+    tags:
+      - {name: twig.extension}

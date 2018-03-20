@@ -1,0 +1,5 @@
+name: DOM Tool
+type: module
+description: 'Module for adjusting DOM'
+core: 8.x
+version: 1.0.0
